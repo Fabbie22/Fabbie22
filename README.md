@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, ik ben Fabian!  👋
 
-<!--
-**Fabbie22/Fabbie22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student op het Technova College in de opleiding van **Softwaredeveloper** 
 
-Here are some ideas to get you started:
+Ik houd mijzelf bezig met projecten op school in onder andere:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- PHP
+- MySQL 
+- JavaScript
+-  Wordpress
+- Tailwind CSS
+- 📫 Hoe kan je mij bereiken: [...](https://fabianwalter.nl/)
+- ⚡ Fun fact: In mijn vrije tijd ben ik bezig met het ontdekken van verschillende frameworks. Zoals **React.js**
+In mijn vrije tijd ben ik bezig met het ontdekken van verschillende frameworks. Zoals React.js
