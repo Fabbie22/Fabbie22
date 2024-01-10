@@ -11,6 +11,6 @@ Ik houd mijzelf bezig met projecten op school in onder andere:
 - JavaScript
 -  Wordpress
 - Tailwind CSS
-- 📫 Hoe kan je mij bereiken: [...](https://fabianwalter.nl/)
+- 📫 Hoe kan je mij bereiken: [fabianwalter.nl](https://fabianwalter.nl/)
 - ⚡ Fun fact: In mijn vrije tijd ben ik bezig met het ontdekken van verschillende frameworks. Zoals **React.js**
 In mijn vrije tijd ben ik bezig met het ontdekken van verschillende frameworks. Zoals React.js
