@@ -1,16 +1,13 @@
 ### Hi, ik ben Fabian!  👋
 
-Student op het Technova College in de opleiding van **Softwaredeveloper** 
+Student **Softwareontwikkeling** aan het Technova College
 
-Ik houd mijzelf bezig met projecten op school in onder andere:
+Ik werk aan schoolprojecten en aan persoonlijke projecten met onder andere:
 
-- HTML, CSS
-- PHP
-- MySQL 
-- JavaScript
+- HTML & CSS
+- PHP & MySQL
+- JavaScript & React
+- Laravel & Tailwind CSS
 - Wordpress
-- Tailwind CSS
-- Laravel
-- React
 - 📫 Hoe kan je mij bereiken: [fabianwalter.nl](https://fabianwalter.nl/)
-- ⚡ Fun fact: In mijn vrije tijd ben ik bezig met het ontdekken van verschillende frameworks.
+- ⚡ Fun fact: In mijn vrije tijd ontdek ik graag nieuwe frameworks en technologieën.
